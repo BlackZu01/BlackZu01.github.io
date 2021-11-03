@@ -63,7 +63,7 @@ html {
     background-color: rgba(44, 41, 41, 0.6);
     backdrop-filter: blur(0.5rem);
 }
-.container-footer>a {
+.container-footer a {
     width: 4rem;
     height: 4rem;
     margin: 3rem;
