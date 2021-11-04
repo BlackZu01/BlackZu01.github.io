@@ -13,10 +13,9 @@ html {
 .container-header {
     display: flex;
     flex-wrap: wrap;
-    border-radius: 0.5rem;
     justify-content: flex-end;
-    opacity: 0.89;
-    background-color: #2C2929;
+    background-color: rgba(44, 41, 41, 0.6);
+    backdrop-filter: blur(0.5rem);
 }
 .contenedor-header {
     border-radius: 0.5rem;
@@ -47,6 +46,7 @@ html {
     width: 20%;
     height: 53.9rem;
     background-color: rgba(44, 41, 41, 0.4);
+    backdrop-filter: blur(0.2rem);
 }
 .ventana, .ventana2, .ventana3 {
     width: 70%;
