@@ -58,11 +58,11 @@ html {
     width: 80%;
     height: 53.9rem;
 }
-.container-principal {
+.container-footer {
     display: flex;
     flex-wrap: wrap;
 }
-.container-footer {
+.container-principal-iconos {
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -71,7 +71,7 @@ html {
     background-color: rgba(44, 41, 41, 0.6);
     backdrop-filter: blur(0.5rem);
 }
-.container-footer a {
+.container-principal-iconos a {
     width: 3.5rem;
     height: 3.5rem;
     margin: 2rem;
